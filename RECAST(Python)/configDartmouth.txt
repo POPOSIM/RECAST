@@ -1,0 +1,6 @@
+path=./traces/dartmouth/
+filename=dartmouthsorted.dat.sample
+name=dartmouth
+timestep_size=43200
+hour_size=3600
+num_random_files=5

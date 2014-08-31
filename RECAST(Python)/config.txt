@@ -1,0 +1,7 @@
+path=./traces/HCMM/
+filename=HCMMsorted.dat.sample
+name=HCMM
+timestep_size=3600
+hour_size=3600
+num_random_files=5
+p_rand=0.1
